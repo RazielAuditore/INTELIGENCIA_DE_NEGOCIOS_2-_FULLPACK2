@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="F3AIO71451.MODELO_ESTRELLA_DEFINITIVO"
+  DTS:DTSID="{A9930663-2673-44D0-B843-559717C8B17F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=F3AIO71451;Initial Catalog=MODELO_ESTRELLA_DEFINITIVO;Integrated Security=True;Application Name=&quot;SSIS-Integration Services Project1-{A9930663-2673-44D0-B843-559717C8B17F}F3AIO71451.MODELO_ESTRELLA_DEFINITIVO&quot;;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
